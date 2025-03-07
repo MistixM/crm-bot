@@ -2,7 +2,7 @@
 # All secure data should go here
 # --
 
-BOT_TOKEN = '8113812845:AAHF7vNVC53R5DzlWDLW3LkQAb8Y8zfVWd4'
+BOT_TOKEN = 'bot_token'
 
 # Change to your primary account ID (receiver)
 OWNER_ID = 12345678
